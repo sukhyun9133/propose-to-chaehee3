@@ -1,0 +1,1 @@
+This is the final version for 채희 proposal card with retry and loop logic.
